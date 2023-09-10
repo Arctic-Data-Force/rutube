@@ -9,13 +9,6 @@
 ## Технологии
 <code> Python</code>, <code>SQL</code>, <code>ALS</code>, <code>LightFM</code>, <code>RuBERT</code>
 
-## Использование
-Чтобы запустить проект, запустите блокнот ...
-
-data_processing.ipynb - jupyer notebook с созданием целевой метки и работой с данными  
-emjs-ranking.ipynb - jupyer notebook с созданием ранга для каждой реакции у видеороликов  
-
-
 ## Разработчики
 - Ирина Васендина
 - Илья Калинин
