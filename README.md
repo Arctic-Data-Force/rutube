@@ -8,3 +8,10 @@
 
 ## Технологии
 <code> Python</code>, <code>SQL</code>, <code>ALS</code>, <code>LightFM</code>, <code>RuBERT</code>
+
+## Разработчики
+- Ирина Васендина
+- Илья Калинин
+- Никита Громов
+- Алексей Голышев
+- Даниил Покрышкин
